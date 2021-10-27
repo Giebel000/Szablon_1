@@ -1,0 +1,108 @@
+.gora p
+{
+    display: inline-block;
+    left: 0%;
+    right: 2.34%;
+    top: 68.75%;
+    bottom: 12.5%;
+    text-align: center;
+    margin-right: 5%;
+    mix-blend-mode: normal;
+    opacity: 0.35;
+
+}
+#home
+{
+    color: #C9A96E;
+}
+#slogan
+{
+
+    height: 32px;
+    left: 0%;
+    right: 1.56%;
+    top: calc(50% - 32px/2);
+
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 33px;
+    letter-spacing: 2.5px;
+
+    color: #171717;
+}
+.sidebar
+{
+    position: absolute;
+    width: 270px;
+    height: 2566px;
+    left: 1275px;
+    top: 860px;
+}
+.jpggora
+{
+  
+    background-image:url('góra.png');
+    left: 100%;
+right: -100%;
+top: -73.29%;
+bottom: -9.04%;
+    
+}
+.group3
+{
+    float: left ;
+    text-align: center;
+}
+.group4
+{
+    float: right;
+}
+.sport
+{
+    margin-right: 80%
+}
+.teskt2
+{
+    margin-right: 50%;
+}
+.teskt3 h6
+{
+    color: white;
+    margin-bottom: 40%;
+}
+.teskt3 p
+{
+    color: white;
+    margin-top: 40%;
+}
+.tekst2 
+{
+    left: 40.36%;
+    right: 40.36%;
+    top: 24.76%;
+    bottom: 72.39%;
+}
+.insta
+{
+    width: 1880px;
+    height: 367px;
+    left: 20px;
+    top: 3846px;
+}
+.insta h2
+{
+    text-align: center;
+}
+.fashiond
+{
+    width: 1170px;
+    height: 261px;
+    left: 375px;
+    top: 4313px;    
+}
+.fashiond h2 
+{
+    text-align: center;
+}
