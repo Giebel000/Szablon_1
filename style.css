@@ -1,14 +1,11 @@
 .gora p
 {
     display: inline-block;
-    left: 0%;
-    right: 2.34%;
     top: 68.75%;
     bottom: 12.5%;
     text-align: center;
     margin-right: 5%;
-    mix-blend-mode: normal;
-    opacity: 0.35;
+    
 
 }
 #home
@@ -35,38 +32,21 @@
 .sidebar
 {
     position: absolute;
-    width: 270px;
-    height: 2566px;
-    left: 1275px;
+    width: 14%;
+    height: 110%;
+    left: 65%;
     top: 860px;
 }
 .jpggora
 {
   
     background-image:url('góra.png');
-    left: 100%;
-right: -100%;
-top: -73.29%;
-bottom: -9.04%;
+    
+    width: 100%;
+    height: 700px;
     
 }
-.group3
-{
-    float: left ;
-    text-align: center;
-}
-.group4
-{
-    float: right;
-}
-.sport
-{
-    margin-right: 80%
-}
-.teskt2
-{
-    margin-right: 50%;
-}
+
 .teskt3 h6
 {
     color: white;
@@ -77,32 +57,91 @@ bottom: -9.04%;
     color: white;
     margin-top: 40%;
 }
-.tekst2 
-{
-    left: 40.36%;
-    right: 40.36%;
-    top: 24.76%;
-    bottom: 72.39%;
-}
-.insta
-{
-    width: 1880px;
-    height: 367px;
-    left: 20px;
-    top: 3846px;
-}
+
 .insta h2
 {
     text-align: center;
 }
 .fashiond
 {
-    width: 1170px;
-    height: 261px;
-    left: 375px;
-    top: 4313px;    
+    width: 90%;
+    height: 9%;
+    left: 10%;
+    top: 4313px; 
+    padding: 1%;   
 }
 .fashiond h2 
 {
     text-align: center;
 }
+.jpggora 
+{
+    background-image: url("góra.png");
+    width: 100%;
+    height: 700px;
+}
+
+
+.txt_f p 
+{
+    display: inline-table;
+    text-align: center;
+    height: 4%;
+    width: 10%;
+    left: 50%;
+    right: 50%;
+}
+.Fp h5
+{
+    color:#C9A96E;
+    text-align: center;
+}
+.Fp h3
+{
+    text-align: center;
+}
+.Fp p
+{
+    text-align: center;
+}
+.cat p 
+{
+    border-top: 2;
+    border-right: 10;
+    border-left: 1;
+    border-bottom: 2;
+    border-color: black;
+}
+.ata 
+{
+    text-align: center;
+}
+.ata a
+{
+    color: #C9A96E;
+}
+#color1
+{
+    color: #C9A96E;
+    text-align: center;
+}
+#by
+{
+    text-align: center;
+}
+#color2
+{
+    color: #C9A96E;
+}
+#post2
+{
+    height: 63%;
+    width: 63%;
+}
+#color3
+{
+    color: white;
+    font-style: PT Serif;
+  
+}
+
